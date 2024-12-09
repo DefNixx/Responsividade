@@ -47,4 +47,10 @@ Confira o modelo em index.html
 -commit -m "deixe sua mensagem aqui"
 -git push origin (sua branch)
 
+4.0. Resultado final desktop
 
+<img src="assets/images/Resultado final.jpg" alt="Resultado final"
+
+4.1. Resultado final mobile
+
+<img src="assets/images/resultado final celular.jpg" alt="Resultado final mobile>
