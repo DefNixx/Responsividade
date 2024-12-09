@@ -49,7 +49,9 @@ Confira o modelo em index.html
 
 4.0. Resultado final desktop
 
-<img src="assets/images/Resultado final.jpg" alt="Resultado final"
+![resultado final](https://github.com/DefNixx/Responsividade/blob/main/assets/images/Resultado%20final.jpg)
+
+
 
 4.1. Resultado final mobile
 
