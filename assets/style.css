@@ -72,7 +72,7 @@ footer
 
 footer a.btn-footer
 {   
-    color: rgb(117, 116, 116);
+    color: rgb(237, 237, 237);
     width: 60px;
     height: 60px;
     display: inline-block;
@@ -87,4 +87,31 @@ footer a.btn-footer
 footer a.btn-footer:hover
 {
     transform: scale(1.1);
+}
+
+@media (max-width: 480px) {
+    .profile-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    h1 {
+        font-size: 1.2em;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
+
+    .links a {
+        font-size: 0.9em;
+        padding: 8px;
+    }
+
+    footer a.btn-footer {
+        width: 50px;
+        height: 50px;
+        font-size: 1.5em;
+        line-height: 50px;
+    }
 }
