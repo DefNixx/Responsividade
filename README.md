@@ -55,4 +55,6 @@ Confira o modelo em index.html
 
 4.1. Resultado final mobile
 
-<img src="assets/images/resultado final celular.jpg" alt="Resultado final mobile>
+![resultado final](https://github.com/DefNixx/Responsividade/blob/main/assets/images/resultado%20final%20celular.jpg)
+
+
